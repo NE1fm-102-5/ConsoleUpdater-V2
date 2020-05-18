@@ -1,0 +1,12 @@
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LMUpdater\LMUpdater\bin\Debug\ConsoleUpdater.exe.config
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LMUpdater\LMUpdater\bin\Debug\ConsoleUpdater.exe
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LMUpdater\LMUpdater\bin\Debug\ConsoleUpdater.pdb
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LMUpdater\LMUpdater\bin\Debug\ConsoleUpdater.xml
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LMUpdater\LMUpdater\obj\Debug\ConsoleUpdater.vbprojAssemblyReference.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LMUpdater\LMUpdater\obj\Debug\ConsoleUpdater.Form1.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LMUpdater\LMUpdater\obj\Debug\ConsoleUpdater.Resources.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LMUpdater\LMUpdater\obj\Debug\ConsoleUpdater.vbproj.GenerateResource.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LMUpdater\LMUpdater\obj\Debug\ConsoleUpdater.vbproj.CoreCompileInputs.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LMUpdater\LMUpdater\obj\Debug\ConsoleUpdater.exe
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LMUpdater\LMUpdater\obj\Debug\ConsoleUpdater.xml
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LMUpdater\LMUpdater\obj\Debug\ConsoleUpdater.pdb
